@@ -6,7 +6,7 @@ import pandas as pd
 import time
 
 st.title('お散歩アプリ　～De,Tarame!～')
-st.title('Welcome!!')
+st.title('ようこそ!!')
 
 st.text('あなたの現在地は？　※参考緯度経度　東京：36,140')
 la = st.text_input('緯度')
