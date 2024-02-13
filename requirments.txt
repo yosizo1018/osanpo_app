@@ -1,4 +1,5 @@
-streamlit
-numpy
-pandas
-time
+folium==0.15.1
+streamlit-folium==0.18.0
+streamlit==1.30.0
+numpy==1.26.2
+pandas==2.1.4
